@@ -17,15 +17,3 @@ The Library Management System is a basic Java application that allows users to m
 The book details are stored in a file named `library.txt`. The file follows a comma-separated format where each line represents a book and contains the title, author, and checkout status (true/false).
 
 To customize the file name or location, modify the code in `Library.java` where the `saveBooksToFile()` and `loadBooksFromFile()` methods are called.
-
-## Note
-This implementation is a basic version of a library management system and does not include advanced features such as user authentication, database integration, or error handling. It serves as a starting point that can be enhanced and customized as per specific requirements.
-
-Feel free to modify and extend the code to suit your needs.
-
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-
-
-
